@@ -19,4 +19,6 @@
 .project
 .idea/
 *.tmproj
-#OWNERS
+.vscode/
+# helm files
+.helmignore
